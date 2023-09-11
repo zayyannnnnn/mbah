@@ -1,2 +1,3 @@
-# tugas 1
-saat mengerjakan ini aya merasa kesulitan taopi dikit
+#petrichor
+mencoba membuat repository baru 
+
